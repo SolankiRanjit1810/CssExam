@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: blue;
+}
+ h1{
+ text-align: center;
+ color: white;
+}
+img{
+    padding: 10px;
+   padding-left: 50px;
+}
+.main p{
+    font-size: 20px;
+   padding: 30px;
+    text-align: justify;
+    color: white;
+}
+.cantent{
+    background-color: brown;
+    display: flex;
+}
+.cantent img{
+    width: 40%;
+}
+.cantent p{
+    font-size: 20px;
+    padding-top: 150px;
+    width: 700px;
+    margin: 30px;
+}
+.vpl{
+    background-color: rgb(243, 86, 13);
+    display: flex;
+}
+.vpl img{
+    width: 40%;
+    padding-left: 10%;
+}
+.vpl p{
+    font-size: 20px;
+    padding-top: 150px;
+    width: 700px;
+    margin: 30px;
+}

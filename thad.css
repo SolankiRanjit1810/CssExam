@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+   display: flex;
+}
+.para h1{
+ text-align: center;
+ font-style: italic;
+
+}
+.m{
+    font-style: inherit;
+    text-align: justify;
+    font-size: 20px;
+    color: brown;
+    margin: 20px;
+
+   }
+   .n{
+    font-style:italic;
+    text-align: justify;
+    font-size: 30px;
+    margin: 20px;
+    color: rgb(153, 116, 14);
+   }
